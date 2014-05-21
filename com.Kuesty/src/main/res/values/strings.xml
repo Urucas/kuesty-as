@@ -1,0 +1,72 @@
+<resources>
+
+    <string name="app_name">Kuesty</string>
+    <string name="loginError">Wrong User|Pass</string>
+    <string name="alreadyauser">Already a User ?</string>
+	<string name="login">Login</string>
+	<string name="firsttime">First time Here ?</string>
+	<string name="signup">Sign Up</string>
+	
+	<string name="phone">Phone Number</string>
+	<string name="nouserfound">No user found with selected email</string>
+	<string name="newproject">New Project</string>
+	<string name="password">Password</string>
+	<string name="forgot">Forgot your password?</string>
+	<string name="email">Email</string>
+	<string name="username">Username</string>
+	<string name="name">Name</string>
+	<string name="createnewproject">Create new project</string>
+	<string name="notification">Notifications</string>
+	<string name="logout">Logout</string>
+	<string name="recoveractionbar">Password recover</string>
+	<string name="recover">Recover</string>
+	<string name="home">Home</string>
+	<string name="likeus">Like us?</string>
+	<string name="at">at</string>
+	<string name="sendfeedback">Send Feedback</string>
+	<string name="resetpasswordok">Your password has been reseted!</string>
+	<string name="parseexception">Error connecting to Parse Server</string>
+	<string name="invalidsignup">username already taken</string>
+	<string name="kuesty">Kuesty</string>
+	<string name="editprofile">Edit Profile</string>
+	<string name="invaliduser">Invalid Username</string>
+	<string name="invalidemail">Invalid Email</string>
+	<string name="invalidphone">Invalid Phone Number</string>
+	<string name="invalidpassword">Invalid Password</string>
+	
+	<string name="invalidlogin">Invalid Login Credentials</string>
+	<string name="myprofile">My Profile</string>
+	
+	<string name="userexists">Username or email already signup</string>
+	
+	<string name="phonehint">(555) 9780</string>
+	<string name="pwdhint">******</string>
+	<string name="emailhint">you@domain.com</string>
+	<string name="userhint">username</string>
+	<string name="companyhint">company</string>
+	<string name="namehint">name lastname</string>
+	
+	<string name="profession">Profession</string>
+	<string name="company">Company</string>
+	<string name="save">Save</string>
+	
+	<!-- menu -->
+	<string name="nearby">Aca Nomas</string>
+	<string name="search">Buscar</string>
+	<string name="highlights">Destacados</string>
+	<string name="community">Comunidad</string>
+	<string name="temptation">Tentate</string>
+	<string name="roulette">Ruleta</string>
+	<string name="discounts">Descuentos</string>
+	
+	<string-array name="professions">
+        <item>General contractor</item>
+         <item>Sub contractor</item>
+         <item>Engineer</item>
+         <item>Consultant</item>
+         <item>Architect</item>
+         <item>Intern</item>
+         <item>Business</item>
+    </string-array>
+	
+</resources>
